@@ -34,7 +34,6 @@ These lavalink are group into two different categories.
 [With SSL](https://lavalink-list.darrennathanael.com/SSL/lavalink-with-ssl/), and [without SSL](https://lavalink-list.darrennathanael.com/NoSSL/lavalink-without-ssl/)
 SSL one needed `”secure”` to be set to true at client side, whilst the one without SSL should work out of the box
 
-
 ## Hosting guide:
 
 For MacOS, Windows, or Linux: [darrennathanael.com/post/how-to-lavalink/](https://darrennathanael.com/post/how-to-lavalink/)
@@ -48,3 +47,5 @@ For default "networks" [darrennathanael.com/post/tunnelbroker-lavalink-ifup-ifdo
 
 For Netplan [darrennathanael.com/post/tunnelbroker-lavalink-netplan/](https://darrennathanael.com/post/tunnelbroker-lavalink-netplan/)
 
+# Dear all lavalink hosting owner.
+Hello, if you can please join this [discord server](https://discord.darrennathanael.com) so that If your lavalink goes down I or someone else can contact you easily. Thanks and have a nice day!
