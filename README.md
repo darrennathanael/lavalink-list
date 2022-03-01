@@ -19,6 +19,8 @@
   </p>
 </div>
 
+# Dear all lavalink hosting owner.
+Hello, if you can please join this [discord server](https://discord.darrennathanael.com) so that If your lavalink goes down I or someone else can contact you easily. Thanks and have a nice day!
 
 ### Why spring logo?
 
